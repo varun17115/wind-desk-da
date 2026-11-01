@@ -278,3 +278,4 @@ As explicitly permitted and required by the challenge guidelines:
 - [ ] Git repository initialized, committed, and pushed to an anonymous public GitHub repository (e.g. `kjhwr`)
 - [ ] 10-minute unlisted YouTube video recorded (Part 1 Client Pitch + Part 2 Tech Review)
 - [ ] Submission form completed with all links tested in incognito mode
+
