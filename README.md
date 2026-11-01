@@ -25,9 +25,9 @@ This platform provides an end-to-end trading desk and analytical suite leveragin
 
 ## 2. Live Application Deployment
 
-- **Live Production URL**: `https://<your-vercel-or-heroku-app-url>.vercel.app` *(Replace with your deployed URL)*
-- **API Documentation (Swagger UI)**: `https://<your-vercel-or-heroku-app-url>.vercel.app/docs`
-- **Health Check Endpoint**: `https://<your-vercel-or-heroku-app-url>.vercel.app/api/health`
+- **Live Production URL**: [https://wind-desk-da.vercel.app](https://wind-desk-da.vercel.app)
+- **API Health Check**: [https://wind-desk-da.vercel.app/api/health](https://wind-desk-da.vercel.app/api/health)
+- **GitHub Repository**: [https://github.com/varun17115/wind-desk-da](https://github.com/varun17115/wind-desk-da)
 
 ---
 
@@ -274,8 +274,8 @@ As explicitly permitted and required by the challenge guidelines:
 - [x] Dockerfile and docker-compose configured
 - [x] Comprehensive test suite passing (7/7 tests)
 - [x] Project structure cleaned and documented
-- [ ] Live application deployed to Vercel/Heroku and URL verified in incognito mode
-- [ ] Git repository initialized, committed, and pushed to an anonymous public GitHub repository (e.g. `kjhwr`)
+- [x] Live application deployed to Vercel and verified in incognito mode: https://wind-desk-da.vercel.app
+- [x] Git repository initialized, committed, and pushed to public GitHub repository: https://github.com/varun17115/wind-desk-da
 - [ ] 10-minute unlisted YouTube video recorded (Part 1 Client Pitch + Part 2 Tech Review)
 - [ ] Submission form completed with all links tested in incognito mode
 
